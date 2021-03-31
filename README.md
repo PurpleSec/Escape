@@ -1,0 +1,2 @@
+# Escape
+Golang Escaping library
